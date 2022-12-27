@@ -8,6 +8,6 @@ jobs:
   info:
   
     runs-on: ubuntu-latest
-    steps:
-      - uses: rndrepo/common/.github/workflows/repo-info.yml@main
+
+    uses: rndrepo/common/.github/workflows/repo-info.yml@main
       
