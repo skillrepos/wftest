@@ -9,5 +9,5 @@ jobs:
   
     runs-on: ubuntu-latest
 
-    uses: rndrepo/common/.github/workflows/repo-info.yml@main
+    uses: rndrepos/common/.github/workflows/repo-info.yml@main
       
