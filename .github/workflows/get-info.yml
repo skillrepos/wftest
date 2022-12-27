@@ -1,0 +1,13 @@
+name: Get Info
+
+on:
+  push:
+  
+jobs:
+
+  info:
+  
+    runs-on: ubuntu-latest
+    steps:
+      - uses: rndrepo/common/.github/workflows/repo-info.yml@main
+      
