@@ -6,6 +6,5 @@ on:
 jobs:
 
   info:
-    runs-on: ubuntu-latest
     uses: rndrepos/common/.github/workflows/repo-info.yml@main
       
