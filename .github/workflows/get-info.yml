@@ -4,7 +4,6 @@ on:
   push:
   
 jobs:
-
   info:
     uses: rndrepos/common/.github/workflows/repo-info.yml@main
       
