@@ -16,7 +16,7 @@ public class echoMsg  {
          }
       }
       else {
-         System.out.println("No arguments were passed in.");
+         System.out.println("0 arguments were passed in.");
       }
    }
 }
